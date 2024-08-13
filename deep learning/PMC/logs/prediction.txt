@@ -1,0 +1,6 @@
+Epoch 0 - Sample 1176 - Prediction -536.2412109375 - True Value -534.941563132076
+Epoch 1 - Sample 297 - Prediction -150.50955200195312 - True Value -150.72099402591147
+Epoch 2 - Sample 1184 - Prediction 332.0224609375 - True Value 333.36595386639556
+Epoch 0 - Sample 1016 - Prediction -14.980643272399902 - True Value -8.397118377881291
+Epoch 1 - Sample 1164 - Prediction -133.19284057617188 - True Value -127.67597640379884
+Epoch 2 - Sample 349 - Prediction -410.3808288574219 - True Value -410.32991931806976
